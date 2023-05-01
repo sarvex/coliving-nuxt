@@ -30,7 +30,7 @@
     "@nuxtjs/pwa": "^3.3.5"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.0",
     "@nuxtjs/eslint-config": "^1.0.1",
     "@nuxtjs/eslint-module": "^1.0.0",
     "@babel/eslint-parser": "^7.11.0",
