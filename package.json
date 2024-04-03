@@ -21,7 +21,7 @@
     }
   },
   "dependencies": {
-    "nuxt": "3.9.1",
+    "nuxt": "3.11.1",
     "cross-env": "7.0.3",
     "express": "4.18.2",
     "bootstrap-vue": "2.23.1",
