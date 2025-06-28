@@ -25,7 +25,7 @@
     "cross-env": "7.0.3",
     "express": "5.1.0",
     "bootstrap-vue": "2.23.1",
-    "bootstrap": "5.3.3",
+    "bootstrap": "5.3.7",
     "@nuxtjs/axios": "5.13.6",
     "@nuxtjs/pwa": "3.3.5"
   },
